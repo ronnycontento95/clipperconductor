@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>778402526465-mkn6873vb5ervc3mvliek9i3k16tu630.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.778402526465-mkn6873vb5ervc3mvliek9i3k16tu630</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>778402526465-1fsdsfl95fnormnjd097bpl5vlkis0aa.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD2CtK1DAg-gKqznDhEyI8oj3qgXyfgciA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>778402526465</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.clipp.clippdriver</string>
+	<key>PROJECT_ID</key>
+	<string>desarrollo-f9968</string>
+	<key>STORAGE_BUCKET</key>
+	<string>desarrollo-f9968.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:778402526465:ios:3b8639d32fc7fdbbc9d700</string>
+	<key>DATABASE_URL</key>
+	<string>https://desarrollo-f9968.firebaseio.com</string>
+</dict>
+</plist>

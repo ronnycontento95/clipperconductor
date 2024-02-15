@@ -1,0 +1,795 @@
+{
+  "project_info": {
+    "project_number": "778402526465",
+    "firebase_url": "https://desarrollo-f9968.firebaseio.com",
+    "project_id": "desarrollo-f9968",
+    "storage_bucket": "desarrollo-f9968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:40d1d6cb670f04ec",
+        "android_client_info": {
+          "package_name": "com.citytaxi.appconductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-qmfh4dgnc12dqvgdakogdesocoqri5ph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.citytaxi.appconductor",
+            "certificate_hash": "69ec9aa969b6724c064590bff0fa77253706220e"
+          }
+        },
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:efffe061a73fea27c9d700",
+        "android_client_info": {
+          "package_name": "com.clipp.clipp_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:125ad30f17b7b58dc9d700",
+        "android_client_info": {
+          "package_name": "com.clipp.clipper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-bqrj394bno8dl25t77rd4b6p8dmsog63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clipp.clipper",
+            "certificate_hash": "69ec9aa969b6724c064590bff0fa77253706220e"
+          }
+        },
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:5a58954ec080fd8f",
+        "android_client_info": {
+          "package_name": "com.kradac.alcontax_conductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-44uav5k7n7ncfd42rgvcfr6kcg86o9ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kradac.alcontax_conductor",
+            "certificate_hash": "69ec9aa969b6724c064590bff0fa77253706220e"
+          }
+        },
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:c18e37e09983ccb6c9d700",
+        "android_client_info": {
+          "package_name": "com.kradac.alotaxiconductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:17c92764b82d2681c9d700",
+        "android_client_info": {
+          "package_name": "com.kradac.aventoconductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:2083d70fcd67aa21c9d700",
+        "android_client_info": {
+          "package_name": "com.kradac.conductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:3658d5951b43cb52",
+        "android_client_info": {
+          "package_name": "com.kradac.conductoralcontax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:abf289eb5dbbd083",
+        "android_client_info": {
+          "package_name": "com.kradac.conductorexpresslegal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:dcb5532b7929fb9e",
+        "android_client_info": {
+          "package_name": "com.kradac.conductorplayasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:000e839c8bdf96c4",
+        "android_client_info": {
+          "package_name": "com.kradac.conductorpradospeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:6e75154e758e2c82c9d700",
+        "android_client_info": {
+          "package_name": "com.kradac.conductortaxico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:238d800be55051b1c9d700",
+        "android_client_info": {
+          "package_name": "com.kradac.conductortaxijj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:3e173148f2a2d44b",
+        "android_client_info": {
+          "package_name": "com.kradac.conductortaxmonteserrin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:0c1fcb4cd3acf347c9d700",
+        "android_client_info": {
+          "package_name": "com.kradac.conductorteva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:a8d9e515fe316c03",
+        "android_client_info": {
+          "package_name": "com.kradac.conductorunitaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:97200ae1cd0fbde6c9d700",
+        "android_client_info": {
+          "package_name": "com.kradac.ktaxy_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-1fsdsfl95fnormnjd097bpl5vlkis0aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kradac.ktaxy_driver",
+            "certificate_hash": "8d0b4c0e789364523dfb8ac0ed55a4a4fb78f1c3"
+          }
+        },
+        {
+          "client_id": "778402526465-6hc6ain3cpne2nj572fnb8o9mhsjgrif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kradac.ktaxy_driver",
+            "certificate_hash": "2930da9ceb0f7f6f6b90ef30c94a32dab9f6df1f"
+          }
+        },
+        {
+          "client_id": "778402526465-8otgnse1s3tbcfjq2ohdo87mb0ie519u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kradac.ktaxy_driver",
+            "certificate_hash": "69ec9aa969b6724c064590bff0fa77253706220e"
+          }
+        },
+        {
+          "client_id": "778402526465-g6gs54fa0qc1b7s0f9prndapijshj3ua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kradac.ktaxy_driver",
+            "certificate_hash": "2fa09a641d752acc7e889992055e1265430ec0a3"
+          }
+        },
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:1201d7716cf56f21c9d700",
+        "android_client_info": {
+          "package_name": "com.kradac.transcallazayconductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:7693c9204ef4ece5",
+        "android_client_info": {
+          "package_name": "com.mitaxi.appconductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-cmc9f0u2qcrvd7rlgrjorm443ntljduu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mitaxi.appconductor",
+            "certificate_hash": "bddcd57da882afec6daabbd6f9f5ad75a59c7a1c"
+          }
+        },
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778402526465:android:127f25b9aa392457",
+        "android_client_info": {
+          "package_name": "com.taxicolonial.appconductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TOIf12C1k8Xh2rhGrAwnTLnTb_0x8_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778402526465-aclph06dvqsc34gbecjmdbv6qvq951nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778402526465-apo2k7nernpcr50lrri2ote858b4q0nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kradac.Driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
